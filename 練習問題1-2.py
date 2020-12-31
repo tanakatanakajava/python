@@ -2,7 +2,6 @@
 """
 Created on Thu Dec 31 10:28:18 2020
 
-@author: ic201236
 """
 
 eigo=int(input("英語の成績は？"))
